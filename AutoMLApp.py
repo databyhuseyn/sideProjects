@@ -9,7 +9,6 @@ import os
 import ydata_profiling
 from ydata_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
-from streamlit_pandas_profiling import st_profile_report
 
 
 # ML Part
