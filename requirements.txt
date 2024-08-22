@@ -3,3 +3,4 @@ pandas == 2.1.4
 ydata_profiling == 4.9.0
 streamlit_pandas_profiling == 0.1.3
 pycaret == 3.3.2
+phik == 0.12.4
