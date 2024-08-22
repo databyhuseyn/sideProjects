@@ -6,7 +6,7 @@ import os
 
 
 # Import profiling capability
-!pip install ydata_profiling
+pip install ydata_profiling
 import ydata_profiling
 from ydata_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
